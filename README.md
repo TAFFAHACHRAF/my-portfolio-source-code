@@ -1,9 +1,8 @@
 <h2 align="center">
-  Portfolio Website - v1.0<br/>
-  <a href="https://taffah-achraf.netlify.app" target="_blank">soumyajit.tech</a>
+  <a href="https://taffah-achraf.netlify.app" target="_blank">My portfolio</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/nodeJs-3.dbc503dd4f5db6b81adc.png" />
 </div>
 
 <br/>
